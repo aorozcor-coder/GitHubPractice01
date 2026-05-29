@@ -1,0 +1,18 @@
+[33mcommit b1459605ba4a3da16aef514322f16a167c7d41c4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 67f8edc dd443de
+Author: Adrian <aorozcor@unicartagena.edu.co>
+Date:   Sun May 24 22:23:32 2026 -0500
+
+    Merge branch 'main' of https://github.com/aorozcor-coder/GitHubPractice01
+
+[33mcommit dd443de4f6dad0f779c88c56b3fdb994a0bd7b9f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: AdrianOR <aorozcor@unicartagena.edu.co>
+Date:   Sun May 24 22:16:52 2026 -0500
+
+    Initial commit
+
+[33mcommit 67f8edce08bd5078e5e42bcaa8d52446b11d0c50[m
+Author: Adrian <aorozcor@unicartagena.edu.co>
+Date:   Sun May 24 22:06:29 2026 -0500
+
+    chore/configuracion basica del proyecto

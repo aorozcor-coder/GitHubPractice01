@@ -1,9 +1,16 @@
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+            byte numero;
+            String cosa = "";
         System.out.println("Inicio de Proyecto Adrian felipe orozco romero");
-            for (int i = 0; i < 10; i++ ){
-                System.out.println(i + 1);
+             numero = entrada.nextByte();
+             cosa = entrada.next();
+            for (int i = 0; i <= numero; i++ ){
+                System.out.println(i + cosa);
+
             }
     }
 }
